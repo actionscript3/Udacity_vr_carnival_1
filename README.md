@@ -28,7 +28,11 @@ I get the Following error:
 It would seem that one shoudl not submit compiled code to GIT, 
 perhaps this requirement is in error? 
 
+###Note
 
+There really does not appear a way to submit our projects through github, if
+folks are would really like to know how they are doing it. Seems the 100mb
+is a hard limit for Github. 
 
 
 
