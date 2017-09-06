@@ -3,7 +3,7 @@
 
 Home Work #1, simple Carnival Game
 
-##requirements
+## requirements
 
     Unity 2017.10f3
 
@@ -16,7 +16,7 @@ actionscript@mac.com
 Not exactly sure what the ReadMe file format should be. 
 
 
-##Problem
+## Problem
 
 In the requirements it says that we should include a Build.zip. 
 This is problematic for a free Git Account.
@@ -28,7 +28,7 @@ I get the Following error:
 It would seem that one shoudl not submit compiled code to GIT, 
 perhaps this requirement is in error? 
 
-###Note
+### Note
 
 There really does not appear a way to submit our projects through github, if
 folks are would really like to know how they are doing it. Seems the 100mb
